@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "216574829528",
+    "project_id": "vinhos-45b5c",
+    "storage_bucket": "vinhos-45b5c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216574829528:android:1acfe7c2caa924170588ad",
+        "android_client_info": {
+          "package_name": "com.example.app_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "216574829528-qeq0vgdfitg64ifo73m7lc2sca1tb1a2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.app_firebase",
+            "certificate_hash": "81b3cd191f199d643df7cab59a379f0e086cb074"
+          }
+        },
+        {
+          "client_id": "216574829528-oulrjhhnjtvk94s560jrsnlvg1a77af1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvfC-zu_gDNEGEU1qxGWFZrh9MC8KrHJ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "216574829528-oulrjhhnjtvk94s560jrsnlvg1a77af1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
